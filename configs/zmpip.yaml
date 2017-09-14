@@ -1,0 +1,8 @@
+comPid_x: [6.0, 0, 0]
+comPid_displLim_x: 0.05
+comPid_y: [5.0, 0, 0.3] 
+comPid_displLim_y: 0.05
+zmpPid_x: [0, 0.0035, 0.001] 
+zmpPid_displLim_x: 0.05
+zmpPid_y: [0, 0.0035, 0.003] 
+zmpPid_displLim_y: 0.05

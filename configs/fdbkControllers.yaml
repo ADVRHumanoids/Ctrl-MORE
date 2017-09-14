@@ -1,0 +1,15 @@
+loadControllers: [ZmpIP, ctr2]
+
+ZmpIP:
+ libPath: ./libfbkCtrlzmpip.so
+ configFile: ../configs/zmpip.yaml
+
+ctr2:
+ libPath: ../tmp/fdbk1/build/libctr2.so
+ configFile: confFile2
+ 
+ctr3:
+ libPath: dsa
+ configFile: confFile3
+ 
+ 
